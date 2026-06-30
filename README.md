@@ -62,10 +62,6 @@ An advanced e-commerce platform built with Django and Django REST Framework (DRF
 
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Contact
 
 For any inquiries or feedback, please reach out to `nagureshubham@gmail.com`.
